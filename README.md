@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-- [ci/cd]() (GitHub Actions)
-- [Pull Request]()
-- [HEROKU App]()
+- [ci/cd](https://github.com/CallMeCody/basic-auth/actions) (GitHub Actions)
+- [Pull Request](https://github.com/CallMeCody/basic-auth/pull/2)
+- [HEROKU App](https://basic-auth-lab-06.herokuapp.com/)
 
 ### Setup
 
